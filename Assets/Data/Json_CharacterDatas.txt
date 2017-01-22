@@ -1,0 +1,38 @@
+﻿{
+  
+      "id": 101,
+      "lv": 10,
+      "hp": 1000,
+      "mhp": 1000,
+      "sp": 200,
+      "msp": 200,
+      "str": 50,
+      "con": 40,
+      "int": 30,
+      "spd": 40,
+      "name": "testCharacter1",
+      "actionSetting": [
+        {
+          "id": 1,
+          "condition": 102,
+          "param": 400,
+          "action": 1001
+          
+        },
+        {
+          "id": 2,
+          "condition": 102,
+          "param": 600,
+          "action": 1002
+          
+        },
+        {
+          "id": 3,
+          "condition": 9999,
+          "param": 0,
+          "action": 1071
+          
+        }
+      ]
+   
+}

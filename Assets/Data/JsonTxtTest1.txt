@@ -1,0 +1,18 @@
+﻿{
+                "Name"     : "yusong",
+                "Age"      : 26,
+                "Birthday" : "1986-11-21",
+ 				"Thumbnail":[
+				{
+           			"Url":    "http://xuanyusong.com",
+           			"Height": 256,
+           			"Width":  "200"
+				},
+				{
+           			"Url":    "http://baidu.com",
+           			"Height": 1024,
+           			"Width":  "500"
+				}
+ 
+				]
+            }"

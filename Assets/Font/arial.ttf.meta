@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ca8c5953e7a78b748996e7f73aa2a31d
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Arial
+  - MYingHeiGB18030C-Bold
+  - Droid Sans
+  - Droid Sans Fallback
+  - LTHYSZK
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

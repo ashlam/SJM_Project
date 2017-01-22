@@ -1,0 +1,42 @@
+﻿{
+  "characterTemplate":
+  [
+    {
+        "lv": 10,
+        "hp": 1000,
+        "mhp": 1000,
+        "sp": 200,
+        "msp": 200,
+        "str": 50,
+        "con": 40,
+        "int": 30,
+        "spd": 40,
+        "party":601,
+        "faction":601000001,
+        "name": "testCharacter1",
+        "actionSetting": [
+          {
+            "id": 1,
+            "condition": 102,
+            "param": 400,
+            "action": 1003
+            
+          },
+          {
+            "id": 2,
+            "condition": 102,
+            "param": 600,
+            "action": 1003
+            
+          },
+          {
+            "id": 3,
+            "condition": 9999,
+            "param": 0,
+            "action": 1003
+            
+          }
+        ] 
+    }
+  ]
+}
